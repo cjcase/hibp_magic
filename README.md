@@ -3,8 +3,8 @@
 HaveIBeenPwned API Magic - Quick and dirty HIBP API v3 interface
   
 This script is a quick and dirty tool for consuming the Have I Been Pwned API from the terminal.
-You will need a HIBP API Key, [get yours here.](https://haveibeenpwned.com/API/Key)
-This script is based on the V3 API Documentation, [you can check that here.](https://haveibeenpwned.com/API/v3).
+You will need a HIBP API Key, [get yours here.](https://haveibeenpwned.com/API/Key)  
+This script is based on the V3 API Documentation, [you can check that here.](https://haveibeenpwned.com/API/v3)  
 Feel free to send pull requests, issues or functionality ideas :)
 
 ## Requirements
